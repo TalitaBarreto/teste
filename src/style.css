@@ -1,0 +1,48 @@
+.titleRendimento{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.btnFacebook{
+    text-decoration: none;
+    padding: 10px 20px;
+    background: #191970;
+    color: #fff;
+    border-radius: 20px;
+}
+
+.btnFacebook:hover{
+    background:#483D8B;
+    color:#fff
+}
+
+.btnGoogle{
+    text-decoration: none;
+    padding: 10px 20px;
+    background: #9c0000;
+    color: #fff;
+    border-radius: 20px;
+}
+
+.btnGoogle:hover{
+    background:#8b2626;
+    color:#fff
+}
+
+.btnPetrobras{
+    text-decoration: none;
+    padding: 10px 20px;
+    background: #008542;
+    color: #fff;
+    border-radius: 20px;
+}
+
+.btnPetrobras:hover{
+    background:#005e2f;
+    color:#fff
+}
+
+.content{
+    margin-top: 20px;
+}
+
